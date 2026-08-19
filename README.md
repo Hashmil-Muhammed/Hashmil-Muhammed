@@ -3,20 +3,20 @@
 </p>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Hashmil-Muhammed&color=70a5fd&style=flat-square&label=Profile+Views" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=Hashmil-Muhammed&color=70a5fd&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+  <a href="https://komarev.com/ghpvc/?username=Hashmil-Muhammed&color=70A5FD&style=for-the-badge&label=Profile+Views" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=Hashmil-Muhammed&color=70A5FD&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
   </a>
   <a href="https://github.com/Hashmil-Muhammed" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://linkedin.com/in/hashmil-muhammed08" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://hashmil-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:hashmilmuhammedparammal@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
