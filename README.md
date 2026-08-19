@@ -22,6 +22,6 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=AI%2FML+Engineer+%7C+Python+Full-Stack;NLP+%7C+CNN+%7C+Machine+Learning+%7C+FastAPI;Kerala%2C+India+%F0%9F%87%AE%F0%9F%87%B3+Open+to+Full-Time+Roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=AI%2FML+Engineer+%7C+Python+Full-Stack;NLP+%7C+CNN+%7C+Machine+Learning+%7C+FastAPI;Kerala%2C+India+%F0%9F%87%AE%F0%9F%87%B3+%7C+Open+to+Full-Time+Roles" />
 </p>
 
