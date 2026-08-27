@@ -5,21 +5,7 @@
 <br>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=Hashmil-Muhammed&color=70A5FD&style=for-the-badge&label=Profile+Views" target="_blank" style="margin: 0 2px;">
-    <img src="https://komarev.com/ghpvc/?username=Hashmil-Muhammed&color=70A5FD&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
-  </a>
-  <a href="https://github.com/Hashmil-Muhammed" target="_blank" style="margin: 0 2px;">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/hashmil-muhammed08" target="_blank" style="margin: 0 2px;">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://hashmil-portfolio.vercel.app/" target="_blank" style="margin: 0 2px;">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:hashmilmuhammedparammal@gmail.com" target="_blank" style="margin: 0 2px;">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <a href="https://komarev.com/ghpvc/?username=Hashmil-Muhammed&color=70A5FD&style=for-the-badge&label=Profile+Views" target="_blank"><img src="https://komarev.com/ghpvc/?username=Hashmil-Muhammed&color=70A5FD&style=for-the-badge&label=Profile+Views" alt="Profile Views"/></a><a href="https://github.com/Hashmil-Muhammed" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a><a href="https://linkedin.com/in/hashmil-muhammed08" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a><a href="https://hashmil-portfolio.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a><a href="mailto:hashmilmuhammedparammal@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 <br>
